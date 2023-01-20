@@ -12,7 +12,7 @@
 </head>
 <body>
 <P>      If You Want To Make Your Own Tool Contract Us
-<P> Our Social Media :- <a href="https://www.facebook.com/groups/1247616299128920/" target="_blank"> Contract Us </a>
+<P> Our Social Media :- <a href="https://www.facebook.com/groups/1247616299128920/" target="_blank"> Facebook </a>
 </body>
 </html>
 
