@@ -46,7 +46,7 @@ Paste The Ip Adress At Google And If It ask Username And Password Then You Can T
 Username : admin
 password : admin
 Username : admin
-Password : (blank)
+Password :(blank)
 Username : admin
 Password : 12345
 Username : admin
